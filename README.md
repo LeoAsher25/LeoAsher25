@@ -1,9 +1,26 @@
-### Hi there 👋
+<img src="./hello.svg">
 
-<!--
-**LeoAsher25/LeoAsher25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <h1 style="border: none"> Hi there 👋 </h1>
 
-Here are some ideas to get you started:
+<h2 style="margin-top: -12px"> I'm Leo Asher </h2> -->
+
+- 🔭 I’m currently working on FTP Software
+
+- 🌱 Now, I’m seeking chances to work remotely 💻 or overseas 🏝.
+
+<!-- - 🤔 I’m actually interested in projects related to Block-chain -->
+
+<!-- - 📫 I'm self-reflective. Recognize your mistakes and repair them. -->
+
+- 📫 Contact me: leoasher2507@gmail.com
+
+- 💬 Ask me about everything 😗
+
+- ⚡ Fun fact: I'm not a normal human 😳...
+
+<img src="./leoasher.jpeg"  width="60%" heigh="auto">
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +29,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
