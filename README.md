@@ -4,8 +4,6 @@
 
 <h2 style="margin-top: -12px"> I'm Leo Asher </h2> -->
 
-- 🔭 I’m currently working on FTP Software
-
 - 🌱 Now, I’m seeking chances to work remotely 💻 or overseas 🏝.
 
 <!-- - 🤔 I’m actually interested in projects related to Block-chain -->
